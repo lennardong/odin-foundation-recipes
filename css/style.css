@@ -1,0 +1,45 @@
+* .headertext, .bodytext {
+    font-family: Georgia, serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 20px;
+}
+
+.image {
+    padding-top: 50px;
+    display: block;
+    width: 300px;
+    height = auto ;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: gray;
+
+}
+
+.headertext {
+    /* center align all text, use something like gotham */
+    font-weight: 100;
+    font-size: 30px;
+    line-height: 50px;
+}
+
+.bodytext {
+    /* center align all text, use something like gotham */
+    font-weight: 100;
+    font-size: 14px;
+    margin-left: 20%;
+    margin-right:20%;
+    color: gray;
+}
+
+.smaller {
+    font-size: 20px;
+}
+
+a:link{
+    margin-left: 20%;
+    margin-right:20%;
+    font-size: 14px;
+    font-weight: 50;
+    color: rgb(119, 119, 119);
+}
